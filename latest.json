@@ -1,0 +1,13 @@
+{
+  "game": "aviator-trail",
+  "tester": {
+    "version": "0.1.0",
+    "number": 107,
+    "date": "2026-10-31",
+    "notes": [
+      "Tester agreement before the first game",
+      "15-day test period",
+      "Check for updates in About"
+    ]
+  }
+}
