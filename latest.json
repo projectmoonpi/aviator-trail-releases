@@ -2,12 +2,14 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 108,
+    "number": 109,
     "date": "2026-10-31",
     "notes": [
-      "Check for updates only links to Project Moon Pi pages",
-      "Tester agreement before the first game",
-      "15-day test period"
+      "New Game goes straight to career length",
+      "Every screen fits in your browser, Safari included",
+      "Brighter, quicker travelling tune",
+      "Simpler student-loan payments",
+      "Uninstall icon on the Desktop; on Windows also in Settings > Apps"
     ]
   }
 }
