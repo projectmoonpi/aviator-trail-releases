@@ -2,17 +2,16 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 113,
+    "number": 114,
     "date": "2026-11-04",
     "download": "https://github.com/projectmoonpi/aviator-trail-releases/releases/latest",
     "notes": [
+      "Fatigue: pushing hard at an airline, you may have to decide if you are fit to continue",
+      "Medical findings read properly",
+      "Mac: the first start shows the intro properly",
       "Real instruments in the music (Hybrid and Modern Retro)",
       "Restricted ATP at 21, explained; mainlines and cargo hire full ATPs only",
-      "Extra lessons cost money, and say how much",
-      "The new-hire badge shows your real job",
-      "The hired screen comes right away",
-      "No more money lost on the first airline turn",
-      "Download page button when an update is out"
+      "Extra lessons cost money, and say how much"
     ]
   }
 }
