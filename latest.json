@@ -2,16 +2,16 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 114,
+    "number": 115,
     "date": "2026-11-04",
     "download": "https://github.com/projectmoonpi/aviator-trail-releases/releases/latest",
     "notes": [
-      "Fatigue: pushing hard at an airline, you may have to decide if you are fit to continue",
-      "Medical findings read properly",
-      "Mac: the first start shows the intro properly",
-      "Real instruments in the music (Hybrid and Modern Retro)",
-      "Restricted ATP at 21, explained; mainlines and cargo hire full ATPs only",
-      "Extra lessons cost money, and say how much"
+      "Fatigue depends on the flying: pace, reserve or long trips, commuting, weather and seniority",
+      "Fatigue at cargo jobs and in helicopters, worst on air medical shift swaps",
+      "A rejected fatigue call is your choice: a paid sick call, or unpaid and grieve it",
+      "Only ignoring the signs again and again can end a career",
+      "Windows browser version: a new installer with no PowerShell",
+      "Medical findings read properly"
     ]
   }
 }
