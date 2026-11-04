@@ -2,14 +2,18 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 109,
-    "date": "2026-10-31",
+    "number": 111,
+    "date": "2026-11-03",
     "notes": [
-      "New Game goes straight to career length",
-      "Every screen fits in your browser, Safari included",
-      "Brighter, quicker travelling tune",
-      "Simpler student-loan payments",
-      "Uninstall icon on the Desktop; on Windows also in Settings > Apps"
+      "Flight school brochures: time to each rating, degree, cost and loans",
+      "How to play help, and your goal shown at the start",
+      "Volume sliders; the game pauses when its window is in the back",
+      "Many more music tracks",
+      "Job board labelled and ordered by airline type",
+      "FAA ramp checks for Part 91 and 135 flying",
+      "The career ends at 65, with a retirement screen to come back to",
+      "New Windows installer window with a progress bar",
+      "Many fixes from testing"
     ]
   }
 }
