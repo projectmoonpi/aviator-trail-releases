@@ -2,9 +2,10 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 111,
+    "number": 112,
     "date": "2026-11-03",
     "notes": [
+      "Checks for a newer build each time it starts",
       "Flight school brochures: time to each rating, degree, cost and loans",
       "How to play help, and your goal shown at the start",
       "Volume sliders; the game pauses when its window is in the back",
@@ -12,8 +13,7 @@
       "Job board labelled and ordered by airline type",
       "FAA ramp checks for Part 91 and 135 flying",
       "The career ends at 65, with a retirement screen to come back to",
-      "New Windows installer window with a progress bar",
-      "Many fixes from testing"
+      "New Windows installer window with a progress bar"
     ]
   }
 }
