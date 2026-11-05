@@ -47,13 +47,14 @@ Please tell the person who sent you this link what happened, what you were doing
 
 ## Other downloads
 
-The [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest) also has a browser version for each system (`Aviator-Trail-for-Mac.zip`, `Aviator-Trail-for-Windows.zip`), which plays in your web browser and needs Python 3. Most testers should use the files above instead.
+The [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest) also has a browser version for each system, which plays in your web browser and needs Python 3 (the installer offers to set it up): `Install-Aviator-Trail-for-Windows.exe` (one file: double-click it, nothing to unzip) and `Aviator-Trail-for-Mac.zip`. Most testers should use the files above instead. (`Aviator-Trail-for-Windows.zip` is there for older builds' Update now.)
 
 `latest.json` in this repository is the small file the game reads to check for updates.
 
 ## Credits
 
 - Game, artwork, code and original music: Project Moon Pi.
+- Story intro music: ["Pushing ahead"](https://opengameart.org/node/123082) by Centurion_of_war (OpenGameArt, CC0 1.0). Title and main menu music: ["Bit Forest intro"](https://opengameart.org/node/112117) by bertsz (OpenGameArt, CC0 1.0).
 - Real instruments in the music: University of Iowa Electronic Music Studios, Musical Instrument Samples (free to use without restrictions), and VS Chamber Orchestra 2 Community Edition by Versilian Studios (CC0).
 - Built with Claude Code (Anthropic).
 
