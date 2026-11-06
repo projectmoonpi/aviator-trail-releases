@@ -2,16 +2,15 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 120,
+    "number": 122,
     "date": "2026-11-05",
     "download": "https://github.com/projectmoonpi/aviator-trail-releases/releases/latest",
     "notes": [
-      "A story intro after the Project Moon Pi logo: a young pilot's career... or was it a dream? (Click to skip)",
-      "New title and main menu music, with the music credited on screen",
-      "Options plays the game's own tune in each graphics style, then the menu music carries on",
-      "About: Replay the intro plays the story again",
-      "Windows browser version: a one-file installer with a new progress bar; remove it from Settings > Apps",
-      "When the 15 days are over, the game offers the newer build (each build has its own 15 days)"
+      "Aviator Trail is now a desktop app only, on Windows and Mac. An old browser version is removed when you install this one.",
+      "Ending videos: every career ends with its own short video. Retirements play their song on through the summary.",
+      "Your look from the setup screen carries through the game: long hair for a woman, a paper bag or animal head for Prefer not to say",
+      "Redrawn hair, and fixed airliners (engines under the wings, better tails)",
+      "Update now built in: it downloads the new installer, checks it and opens it. Saves carry on."
     ]
   }
 }

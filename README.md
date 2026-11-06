@@ -9,51 +9,54 @@ Aviator Trail is an Oregon Trail-style game about becoming an airline pilot, fro
 
 | Your computer | Download this file |
 |---|---|
-| **Windows 10 or 11** | **[Aviator-Trail-0.1.0-win-x64.exe](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest/download/Aviator-Trail-0.1.0-win-x64.exe)** |
-| **Mac with Apple silicon** (M1, M2, M3, M4 and later) | **[Aviator-Trail-0.1.0-mac-arm64.dmg](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest/download/Aviator-Trail-0.1.0-mac-arm64.dmg)** |
-| **Mac with an Intel processor** | **[Aviator-Trail-0.1.0-mac-x64.dmg](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest/download/Aviator-Trail-0.1.0-mac-x64.dmg)** |
+| **Windows 10 or 11** | **[Install-Aviator-Trail-for-Windows.exe](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest/download/Install-Aviator-Trail-for-Windows.exe)** |
+| **Mac** (Apple silicon or Intel) | **[Aviator-Trail-for-Mac.zip](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest/download/Aviator-Trail-for-Mac.zip)** |
 
-These links always get the newest tester build.
-
-**Which Mac do I have?** Click the Apple menu (top left) › **About This Mac**. If it says **Chip: Apple M…**, get the Apple silicon file. If it says **Processor: … Intel …**, get the Intel file.
+These links always get the newest tester build. Aviator Trail plays in its own window, like any app. It needs nothing else: no Python, no web browser.
 
 ## Install it
 
 **Windows**
-1. Double-click `Aviator-Trail-0.1.0-win-x64.exe`.
+1. Double-click `Install-Aviator-Trail-for-Windows.exe`. It's one file, so there's nothing to unzip.
 2. Windows may show "Windows protected your PC", because the game isn't code-signed yet. Click **More info**, then **Run anyway**.
-3. Follow the installer. Aviator Trail goes in your Start menu and on your Desktop.
+3. Choose where to install it and whether to put it on your Desktop, then click **Install** and **Finish**. Aviator Trail goes in your Start menu. It needs no admin rights.
 
-**Mac**
-1. Open the `.dmg` file and drag **Aviator Trail** into **Applications**.
-2. The first time, macOS may say it can't check the app for malicious software, because the game isn't notarised yet. Click **Done**, then open **System Settings › Privacy & Security**, scroll down and click **Open Anyway** next to Aviator Trail. (On older macOS: right-click the app and choose **Open**.)
+**Mac** (macOS 13 or newer)
+1. Unzip `Aviator-Trail-for-Mac.zip` and double-click **Install Aviator Trail**.
+2. The first time, macOS may say it can't check the developer. Open **System Settings › Privacy & Security** and click **Open Anyway**. (Or right-click the installer, choose **Open**, then **Open**.)
+3. It downloads the app for your Mac (about 330 MB), checks it, and puts it in **Applications**. The app itself may ask the same way the first time you open it.
+
+If you'd rather install by hand, the [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest) also has the app's `.dmg` for each kind of Mac. Get `-arm64` for Apple silicon or `-x64` for Intel, then drag **Aviator Trail** into Applications. **Which Mac do I have?** Click the Apple menu › **About This Mac**. **Chip: Apple M…** means Apple silicon. **Processor: … Intel …** means Intel.
 
 The first start needs the internet. You'll see a short tester agreement before your first game.
 
 ## Updates
 
-Each time it starts, the game checks for a newer tester build. If there is one, it shows **Update needed** with a **Download page** button: download the new file from here and install it over the old one. Your saved games and Hall of Fame carry on.
+Each time it starts, the game checks for a newer tester build. If there is one, it shows **Update needed**:
+- **Update now** downloads the new installer, checks it and opens it.
+- The installer closes the game and updates it.
+
+Your saved games and Hall of Fame carry on. Running the installer again also offers **Update**, **Repair** and **Reinstall from scratch**.
 
 Each tester build works for 15 days.
 
 ## Uninstall
 
-- **Windows:** Settings › Apps › Installed apps › Aviator Trail › Uninstall.
+- **Windows:** Settings › Apps › Installed apps › Aviator Trail › Uninstall. It asks whether to delete your saved games too; leave the box unticked to keep them.
 - **Mac:** drag Aviator Trail from Applications to the Trash.
 
 ## Found a bug?
 
 Please tell the person who sent you this link what happened, what you were doing and which computer you were on. Screenshots help.
 
-## Other downloads
-
-The [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest) also has a browser version for each system, which plays in your web browser and needs Python 3 (the installer offers to set it up): `Install-Aviator-Trail-for-Windows.exe` (one file: double-click it, nothing to unzip) and `Aviator-Trail-for-Mac.zip`. Most testers should use the files above instead. (`Aviator-Trail-for-Windows.zip` is there for older builds' Update now.)
+## Other files
 
 `latest.json` in this repository is the small file the game reads to check for updates.
 
 ## Credits
 
 - Game, artwork, code and original music: Project Moon Pi.
+- Ending music (OpenGameArt, CC0 1.0): "It Takes a Hero" and "Stumble Around" by Zane Little Music, "Wacky Workings" by fupi, "8-bit - I am not clumsy!" by HydroGene, "Banana Track" by skrjablin.
 - Story intro music: ["Pushing ahead"](https://opengameart.org/node/123082) by Centurion_of_war (OpenGameArt, CC0 1.0). Title and main menu music: ["Bit Forest intro"](https://opengameart.org/node/112117) by bertsz (OpenGameArt, CC0 1.0).
 - Real instruments in the music: University of Iowa Electronic Music Studios, Musical Instrument Samples (free to use without restrictions), and VS Chamber Orchestra 2 Community Edition by Versilian Studios (CC0).
 - Built with Claude Code (Anthropic).
