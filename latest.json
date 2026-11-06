@@ -2,10 +2,12 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 122,
+    "number": 123,
     "date": "2026-11-05",
     "download": "https://github.com/projectmoonpi/aviator-trail-releases/releases/latest",
     "notes": [
+      "The tester agreement now shows each time you open the game, with the date the build stops working",
+      "The title music's credit shows for a few seconds each time the title comes up",
       "Aviator Trail is now a desktop app only, on Windows and Mac. An old browser version is removed when you install this one.",
       "Ending videos: every career ends with its own short video. Retirements play their song on through the summary.",
       "Your look from the setup screen carries through the game: long hair for a woman, a paper bag or animal head for Prefer not to say",

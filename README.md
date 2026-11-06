@@ -28,7 +28,7 @@ These links always get the newest tester build. Aviator Trail plays in its own w
 
 If you'd rather install by hand, the [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest) also has the app's `.dmg` for each kind of Mac. Get `-arm64` for Apple silicon or `-x64` for Intel, then drag **Aviator Trail** into Applications. **Which Mac do I have?** Click the Apple menu › **About This Mac**. **Chip: Apple M…** means Apple silicon. **Processor: … Intel …** means Intel.
 
-The first start needs the internet. You'll see a short tester agreement before your first game.
+The first start needs the internet. Each time you open the game you'll see a short tester agreement, with the date this build stops working: tick the box and click **Agree and continue**.
 
 ## Updates
 
