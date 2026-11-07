@@ -2,17 +2,16 @@
   "game": "aviator-trail",
   "tester": {
     "version": "0.1.0",
-    "number": 123,
-    "date": "2026-11-05",
-    "download": "https://github.com/projectmoonpi/aviator-trail-releases/releases/latest",
+    "number": 124,
+    "date": "2026-11-06",
+    "download": "https://github.com/projectmoonpi/aviator-trail-releases/releases/tag/v124",
     "notes": [
-      "The tester agreement now shows each time you open the game, with the date the build stops working",
-      "The title music's credit shows for a few seconds each time the title comes up",
-      "Aviator Trail is now a desktop app only, on Windows and Mac. An old browser version is removed when you install this one.",
-      "Ending videos: every career ends with its own short video. Retirements play their song on through the summary.",
-      "Your look from the setup screen carries through the game: long hair for a woman, a paper bag or animal head for Prefer not to say",
-      "Redrawn hair, and fixed airliners (engines under the wings, better tails)",
-      "Update now built in: it downloads the new installer, checks it and opens it. Saves carry on."
+      "Careers now end with \"Your career ended due to…\" instead of \"You have died of…\"",
+      "Nobody dies any more: the fatigue-accident endings are redrawn (hospital, hay field, a bench with crutches) and the event texts are gentler",
+      "A small red helicopter on a helipad on the title picture is the way into a secret",
+      "About › Contact lists the website and the support and sales addresses",
+      "Mac: the download is now a disk image, Install-Aviator-Trail-for-Mac.dmg",
+      "The tester agreement shows each time you open the game, with the date the build stops working"
     ]
   }
 }

@@ -9,12 +9,12 @@ Aviator Trail is an Oregon Trail-style game about becoming an airline pilot, fro
 
 | Your computer | Download this file |
 |---|---|
-| **Windows 10 or 11** | **[Install-Aviator-Trail-for-Windows.exe](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest/download/Install-Aviator-Trail-for-Windows.exe)** |
-| **Mac** (Apple silicon or Intel) | **[Aviator-Trail-for-Mac.zip](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest/download/Aviator-Trail-for-Mac.zip)** |
+| **Windows 10 or 11** | **[Install-Aviator-Trail-for-Windows.exe](https://github.com/projectmoonpi/aviator-trail-releases/releases/download/v124/Install-Aviator-Trail-for-Windows.exe)** |
+| **Mac** (Apple silicon or Intel) | **[Install-Aviator-Trail-for-Mac.dmg](https://github.com/projectmoonpi/aviator-trail-releases/releases/download/v124/Install-Aviator-Trail-for-Mac.dmg)** |
 
-These links always get the newest tester build. Aviator Trail plays in its own window, like any app. It needs nothing else: no Python, no web browser.
+These links get the newest tester build, build 124. Aviator Trail plays in its own window, like any app. It needs nothing else: no Python, no web browser.
 
-The [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/latest) also lists two `.dmg` files: they're the Mac app itself, which the Mac installer downloads for you, so you don't need to get them. It also lists **Source code (zip)** and **Source code (tar.gz)**: GitHub adds those to every release by itself. They hold only this download page, not the game.
+The [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/tag/v124) also lists two more `.dmg` files, `Aviator-Trail-0.1.0-mac-arm64.dmg` and `-x64.dmg`: they're the Mac app itself, which the Mac installer downloads for you, so you don't need to get them. It also lists **Source code (zip)** and **Source code (tar.gz)**: GitHub adds those to every release by itself. They hold only this download page, not the game.
 
 ## Install it
 
@@ -24,7 +24,7 @@ The [release page](https://github.com/projectmoonpi/aviator-trail-releases/relea
 3. Choose where to install it and whether to put it on your Desktop, then click **Install** and **Finish**. Aviator Trail goes in your Start menu. It needs no admin rights.
 
 **Mac** (macOS 13 or newer)
-1. Unzip `Aviator-Trail-for-Mac.zip` and double-click **Install Aviator Trail**.
+1. Open `Install-Aviator-Trail-for-Mac.dmg` and double-click **Install Aviator Trail** in its window.
 2. The first time, macOS may say it can't check the developer. Open **System Settings › Privacy & Security** and click **Open Anyway**. (Or right-click the installer, choose **Open**, then **Open**.)
 3. It downloads the app for your Mac (about 330 MB), checks it, and puts it in **Applications**. The app itself may ask the same way the first time you open it.
 
