@@ -9,12 +9,12 @@ Aviator Trail is an Oregon Trail-style game about becoming an airline pilot, fro
 
 | Your computer | Download this file |
 |---|---|
-| **Windows 10 or 11** | **[Install-Aviator-Trail-for-Windows.exe](https://github.com/projectmoonpi/aviator-trail-releases/releases/download/v125/Install-Aviator-Trail-for-Windows.exe)** |
-| **Mac** (Apple silicon or Intel) | **[Install-Aviator-Trail-for-Mac.dmg](https://github.com/projectmoonpi/aviator-trail-releases/releases/download/v125/Install-Aviator-Trail-for-Mac.dmg)** |
+| **Windows 10 or 11** | **[Install-Aviator-Trail-for-Windows.exe](https://github.com/projectmoonpi/aviator-trail-releases/releases/download/v126/Install-Aviator-Trail-for-Windows.exe)** |
+| **Mac** (Apple silicon or Intel) | **[Install-Aviator-Trail-for-Mac.dmg](https://github.com/projectmoonpi/aviator-trail-releases/releases/download/v126/Install-Aviator-Trail-for-Mac.dmg)** |
 
-These links get the newest tester build, build 125. Aviator Trail plays in its own window, like any app. It needs nothing else: no Python, no web browser.
+These links get the newest tester build, build 126. Aviator Trail plays in its own window, like any app. It needs nothing else: no Python, no web browser.
 
-The [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/tag/v125) also lists two more `.dmg` files, `Aviator-Trail-0.1.0-mac-arm64.dmg` and `-x64.dmg`: they're the Mac app itself, which the Mac installer downloads for you, so you don't need to get them. It also lists **Source code (zip)** and **Source code (tar.gz)**: GitHub adds those to every release by itself. They hold only this download page, not the game.
+The [release page](https://github.com/projectmoonpi/aviator-trail-releases/releases/tag/v126) also lists two more `.dmg` files, `Aviator-Trail-0.1.0-mac-arm64.dmg` and `-x64.dmg`: they're the Mac app itself, which the Mac installer downloads for you, so you don't need to get them. The `.sig` files are Project Moon Pi's signatures: the game checks them before it installs an update, so you don't need them. It also lists **Source code (zip)** and **Source code (tar.gz)**: GitHub adds those to every release by itself. They hold only this download page, not the game.
 
 ## Install it
 
@@ -34,8 +34,8 @@ The first start needs the internet. Each time you open the game you'll see a sho
 ## Updates
 
 Each time it starts, the game checks for a newer tester build. If there is one, it shows **Update needed**:
-- **Update now** downloads the new installer, checks it and opens it.
-- The installer closes the game and updates it.
+- **Update now** downloads the new installer and checks that it's signed by Project Moon Pi (an unsigned or changed download is never installed).
+- From build 126 on, it then installs it by itself: just a progress bar, and the game opens again when it's done.
 
 Your saved games and Hall of Fame carry on. Running the installer again also offers **Update**, **Repair** and **Reinstall from scratch**.
 
